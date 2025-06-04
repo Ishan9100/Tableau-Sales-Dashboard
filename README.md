@@ -47,7 +47,7 @@ To present an overview of sales metrics and trends, enabling year-over-year (YoY
 ### 🎯 Dashboard Purpose
 To provide insights into customer trends and segmentation to support marketing strategies and customer engagement efforts.
 
-![Customer Dashboard](images/customer_dashboard.png)
+![Customer Dashboard](customer_dashboard.png)
 
 ### ✅ Key Requirements
 
