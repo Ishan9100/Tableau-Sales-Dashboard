@@ -1,4 +1,4 @@
-# 📊 Tableau User Story | Sales Performance
+# 📊 Sales Performance | Tableau Dashboard
 
 🔗 **View Dashboard on Tableau Public**:  
 [Sales & Customer Dashboard](https://public.tableau.com/app/profile/ishan.prabhune/viz/SalesCustomerDashboard_17490554888950/SalesDashboard)
