@@ -71,11 +71,6 @@ To provide insights into customer trends and segmentation to support marketing s
 
 ---
 
-## 📂 Dataset
-> *Note: Add a brief description of your dataset here, or upload a sample CSV file if you're allowed to.*
-
----
-
 ## 🛠 Tools Used
 - **Tableau Public** for dashboard development and sharing  
 - **Data Preparation Tools** (mention if Excel, SQL, or other tools were used)
