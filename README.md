@@ -73,7 +73,7 @@ To provide insights into customer trends and segmentation to support marketing s
 
 ## 🛠 Tools Used
 - **Tableau Public** for dashboard development and sharing  
-- **Data Preparation Tools** (mention if Excel, SQL, or other tools were used)
+- **Data Preparation Tools** Excel
 
 ---
 
